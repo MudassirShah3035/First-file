@@ -1,0 +1,49 @@
+body {
+    background-color: gray;
+    display: inline-flex;
+}
+
+.main {
+    background-color: white;
+    height: 500px;
+    width: 390px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+img {
+    height: 250px;
+    padding: 7px;
+}
+
+.remain{
+    padding: 0 28px 0 14px;
+}
+span{
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 0px 6px;
+    margin: 5px;
+    font-size: 17px;
+    font-family: 'Baloo Bhai 2', sans-serif;
+}
+.para{
+    padding: 0px 28px 0 14px;
+    font-family: 'Baloo Bhai 2', sans-serif
+}
+.butt{
+    text-align: center;
+}
+.butt button{
+    font-size: 15px;
+    padding: 7px 15px;
+    border-radius: 17px;
+    background-color: rgb(216, 236, 253);
+    color: rgb(14, 150, 234);
+    border: none;
+    cursor: pointer;
+}
+.butt button:hover{
+    background-color: rgb(119, 173, 221);
+    color: rgb(10, 136, 214);
+}
