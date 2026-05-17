@@ -9,6 +9,7 @@ body {
     width: 390px;
     border-radius: 5px;
     margin: 10px;
+    
 }
 
 img {
@@ -46,4 +47,10 @@ span{
 .butt button:hover{
     background-color: rgb(119, 173, 221);
     color: rgb(10, 136, 214);
+}
+.image{
+    width: 390px;
+}
+.img1{
+    width: 375px;
 }
